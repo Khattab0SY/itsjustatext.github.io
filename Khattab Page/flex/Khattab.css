@@ -1,0 +1,44 @@
+.f-sl{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+.f-sc{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+.f-sr{
+    display: flex;
+    justify-content: end;
+    align-items: start;
+}
+.f-cc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.f-cl{
+    display: flex;
+    align-items:center;
+}
+.f-cr{
+    display: flex;
+    justify-content:end;
+    align-items:center;
+}
+.f-el{
+    display: flex;
+    justify-content: start;
+    align-items: end;
+}
+.f-ec{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.f-er{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
