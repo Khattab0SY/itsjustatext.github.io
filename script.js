@@ -1,3 +1,5 @@
+//onload = window.scrollTo(0, 0);
+
 let div1 = document.getElementById("d1");
 let div2 = document.getElementById("d2");
 let div3 = document.getElementById("d3");
